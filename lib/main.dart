@@ -22,8 +22,8 @@ class Main extends StatelessWidget {
         ),
         body: Column(
           children: [
-            TaskCard('Meditar'),
-            TaskCard('Jogar'),
+            TaskCard('Teste1'),
+            TaskCard('Teste2'),
           ],
         ),
       ),
